@@ -1,0 +1,52 @@
+h1{
+    color: #09a384;
+    background-color:cornsilk;
+    font-size: 30px;
+    margin-left: 440px;
+    margin-right: 435px;
+}  
+h3{
+    color: darkblue;
+    font-size: 20px;
+    background-color: cornsilk;
+}  
+p{
+    color: darkgoldenrod;
+    font-size: 15px;
+    background-color: cornsilk;
+}
+ul{
+    color: darkgoldenrod;
+    font-size: 15px;
+    background-color: cornsilk;
+}
+a{
+    color:forestgreen;
+    font-size: 15px;
+    
+}
+.foto{
+    margin-left: 550px;
+    margin-right:  550px;
+    background-color: cornsilk;
+}
+nav{
+    background-color: #00b8a9;
+    color: black;
+    padding: 10px;
+}
+.columna{
+    background-color: deepskyblue;
+    color: black;
+    padding: 20px;
+    width: 25%;
+    margin: 15px;
+}
+.Padre{
+    display: flex;
+   
+}
+button{
+    background-color:rgb(52, 193, 240);
+    color: rgb(16, 172, 75);
+}
