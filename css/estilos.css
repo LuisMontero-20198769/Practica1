@@ -4,9 +4,21 @@ h1{
     font-size: 30px;
     margin-left: 440px;
     margin-right: 435px;
-}  
+} 
+input{
+    width: 50%;
+    border-radius: 5px;
+}
+img{
+    margin-left: 140px;
+    
+}
+nav{
+    margin-left: 460px;
+    margin-right: 460px;
+}
 h3{
-    color: darkblue;
+    color: #00b8a9;
     font-size: 20px;
     background-color: cornsilk;
 }  
@@ -23,6 +35,7 @@ ul{
 a{
     color:forestgreen;
     font-size: 15px;
+    border-radius: 5px;
     
 }
 .foto{
@@ -30,23 +43,37 @@ a{
     margin-right:  550px;
     background-color: cornsilk;
 }
-nav{
+
+.hola{
     background-color: #00b8a9;
     color: black;
-    padding: 10px;
+    padding: 10px 20px;
+    display: inline-block;
 }
 .columna{
-    background-color: deepskyblue;
+    background-color: #00b8a9;
     color: black;
     padding: 20px;
     width: 25%;
     margin: 15px;
+    border-radius: 4px;
 }
 .Padre{
     display: flex;
+    padding: 2px 100px;
+    margin: 2px 50px;
    
 }
 button{
-    background-color:rgb(52, 193, 240);
-    color: rgb(16, 172, 75);
+    background-color:#00b8a9;
+    color: black;
+    padding: 5px 30px;
+    margin: 15px 1px;
+    border-radius: 4px;
+}
+button:hover{
+    background-color:gold;
+}
+button:active{
+    background-color: green;
 }
